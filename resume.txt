@@ -1,0 +1,96 @@
+KIRAN S DHUPAD
+Mobile:8748914289
+Email: dhupad@gmail.com
+LinkedIn: www.linkedin.com/in/kiran-dhupad
+
+CAREER OBJECTIVE:
+To be a part of an organization where get a chance to use my knowledge and skills to contribute in the process of the organization as well as myself.
+
+
+PROFESSIONAL SUMMARY:
+
+•	Hands on Experience on git like create Branching, clone, forking a project and Merging
+concepts in Version Control tool.
+
+•	Automatic build process using Jenkins.
+
+•	Creating on containerization tools like Docker.
+
+•	Creating on Branching, Merging, and Tagging concepts in Version Control tool like GIT.
+
+•	Expertise Knowledge in Source Code Management (version control system) tools using
+GIT.
+
+•	Good Knowledge on Jenkins CI/CD Pipeline.
+
+•	Docker container deploying micro services, and scaling the deployment using Kubernetes.
+
+•	Working with Amazon Web services Creating, configuring and Managing EC2, Storage, IAM, S3, Amplify in AWS,VPC,Cloud Watch,EBS,SQS.
+
+•	Good Knowledge on Ansible.
+
+TOOLS: Git,Gitlab,GitHub,Jankins,Sonarqube,Terraform,Ansible, Maven, Docker, Docker Hub,Kubernetes,Prometheus,Grafana, AWS Amplify,Ec2,S3, Roles and Responsibilities
+PROJECTS:
+•	Hosting web application using EC2 instance.
+
+•	Writing a playbook to create a instance by using iam and vpc in Ansible.
+
+•	Storing a multiple web projects in a Docker container and launching using EC2
+
+•	Configuring jobs, master slaves and managing using Jenkins.
+ 
+SKILL SET:
+
+Operating Systems	Windows, Linux
+Version Control Tools	GIT
+Build Management Tools	Maven
+Cloud Service & Data Base	AWS, Oracle
+Containerization Tools	Docker,Kubernets
+Continuous Integration Tools	Jenkins
+Front End Technologies	HTML, CSS
+Automation Tool	Ansible
+Web Server	Apache2
+
+
+STRENGTHS AND RESPONSIBILITIES:
+1.	Leadership
+2.	Team worker.
+3.	Strong Work Ethic.
+4.	Creative & Open Minded.
+
+
+EDUCATION QUALIFICATION:
+
+
+Course	Board/University	Name of the Institution	Percentage / CGPA
+BE        (MECHANICAL) 2016-2020	Visvesvaraya
+Technological University, Belagavi	RTE Society’s Rural Engineering College Hulkoti.	7.1
+PUC: 2014-2016	Department of Pre-University Education	SCPUC college
+Amingad	55.04%
+			
+SSLC: 2013-2014	Karnataka Secondary Education Examination Board	Gov.PU College sulebhavi	75.04%
+ 
+ACADEMIC PROJECT:
+●	Completed internship training programme on “CNC Programmimg and Maching(100Hrs) conducted
+●	By Govt Tool Room Training Centre, Dandeli (05-jul-19 to 31-jul-19)
+(ST1909500710) 
+
+INTERNSHIP EXPERIENCE:
+●	“CNC Programming and Maching(100hrs)conducte
+
+EXPERIENCE:
+    Experience in MAINI PRECISION PRODUCTS LIMITED 
+Bommasandra Jigani Bengaluru
+
+
+PERSIONAL DETAILS:
+Father Name	: Suresh
+Mother Name	: Padmavati
+Nationality	: Indian
+Date of Birth	:21-07-1998
+Languages Known	: English and Kannada
+
+DECLARATION:
+I hereby declare that all the above-mentioned information is correct and true as per my knowledge.
+PLACE: Bagalkot	Yours Faithfully
+              Kiran s dhupad
